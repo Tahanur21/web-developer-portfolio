@@ -244,7 +244,7 @@ footer{
 .contact-text{
     background-color: #ffff;
     font-size: 20px;
-    padding: 28px 70px;
+    padding: 28px 106px 25px 30px;
     margin: 23px 0 0 0;
     border: none;
     border-radius: 11px;
@@ -256,7 +256,7 @@ footer{
 }
 .connect{
     margin-left: 232px;
-    margin-top: -375px;
+    margin-top: -367px;
 }
 .contact {
     margin: 203px 224px;
